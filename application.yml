@@ -18,7 +18,7 @@ OL:
 
 CP:
   s3_conf:
-    s3_bucket: kishor.cstech1
+    s3_bucket: vnagthane
   filename: KC_Extract_1_20171009.csv
 
 ADDR:
@@ -27,7 +27,7 @@ ADDR:
     collection: address
 
 s3_conf:
-  s3_bucket: kishor.cstech1
+  s3_bucket: vnagthane
   staging_dir: pg_staging
 
 redshift_conf:
